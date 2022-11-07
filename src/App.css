@@ -1,0 +1,27 @@
+
+.heading_style{
+    text-align:left;
+    text-transform: uppercase;
+    color:black;
+    margin-bottom: 30px;
+    border-style: solid;
+    font-size: 2px;
+    font-weight: 200;
+   
+    border-bottom-width:solid; 
+    background-color: yellow;
+    text-align: center;
+}
+
+.formStyle{
+  border-style: solid;
+  border-bottom-width:solid; 
+  margin-top: -32px;
+  font-weight: 600;
+  color:black;
+  margin-right:900px;
+  
+  background-color: bisque;
+}
+
+  
